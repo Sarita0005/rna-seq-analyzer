@@ -24,7 +24,9 @@ Counts + Metadata Upload
         ↓
   CPM Calculation (QC / visualization)
         ↓
-  DESeq2 Differential Expression (on raw counts)
+ Low-count Gene Filtering
+        ↓
+  DESeq2 Differential Expression (on raw counts, memory-optimized)
         ↓
   Statistical Filtering
         ↓
