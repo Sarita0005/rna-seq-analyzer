@@ -36,7 +36,7 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 
 # Install dependencies
-pip install streamlit pandas numpy plotly pydeseq2 scikit-learn
+pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
