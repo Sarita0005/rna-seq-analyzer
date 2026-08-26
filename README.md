@@ -1,8 +1,10 @@
 # RNA-Seq Analyzer
 
+🔗 **[Try the live app here](https://rna-seq-analyzer-sarita.streamlit.app/)**
 An interactive web app for analyzing RNA-Seq gene expression data — upload a counts matrix, run differential expression analysis, and explore results through interactive visualizations.
 
 Built while learning bioinformatics data analysis, using the real published **airway dataset** (Himes et al. 2014) — human airway smooth muscle cells treated with dexamethasone (an asthma medication) vs. untreated controls.
+
 
 ## What it does
 
