@@ -43,6 +43,17 @@ streamlit run app.py
 ```
 
 Then upload `airway_counts.csv` and `airway_metadata.csv` (included in this repo) to try it with real data.
+## Screenshots
+
+### PCA Plot
+![PCA Plot](screenshots/pca_plot.png)
+
+### Volcano Plot
+![Volcano Plot](screenshots/volcano_plot.png)
+
+### MA Plot
+![MA Plot](screenshots/ma_plot.png)
+
 
 ## Key findings
 
