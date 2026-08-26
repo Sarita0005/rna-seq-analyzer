@@ -93,7 +93,7 @@ Then upload `airway_counts.csv` and `airway_metadata.csv` (included in this repo
 
 ## Key findings
 
-Running this analysis on the airway dataset identifies **CRISPLD2** (ENSG00000152583) as one of the most significantly differentially expressed genes in dexamethasone-treated samples (log2FoldChange ≈ 4.6, padj ≈ 4×10⁻⁹⁹) — consistent with its reported differential expression in the original Himes et al. 2014 study, which identified CRISPLD2 as a glucocorticoid-responsive gene.
+Running the analysis on the airway dataset identified **CRISPLD2** (ENSG00000152583) among the most significantly differentially expressed genes between dexamethasone-treated and control samples (log2FoldChange ≈ 4.6, adjusted p-value ≈ 4×10⁻⁹⁹). This is consistent with the original Himes et al. (2014) study, which reported CRISPLD2 as a glucocorticoid-responsive gene.
 
 The PCA plot shows clean separation between control and treated samples along the first principal component, indicating the treatment has a strong, consistent effect on overall gene expression.
 
